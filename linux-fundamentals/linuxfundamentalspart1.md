@@ -63,26 +63,43 @@ Type *grep "THM" access.log* to find the flag. You can also find the flag using 
 
 > Answer: THM{ACCESS}
 
+**And I still haven't found what I'm looking for!**
 
+> Answer: No answer needed
 
+## Task 7: An Introduction to Shell Operators
+**If we wanted to run a command in the background, what operator would we want to use?**
 
+> Answer: &
 
+**If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?**
 
+The *>* operator is used to overwrite contents of a file.
 
+> Answer: echo password123 > passwords
 
+**Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be**
 
+The *>>* operator is used to add contents of a file.
 
+> Answer: echo tryhackme >> passwords
 
+**Now use the deployed Linux machine to put these into practice**
 
+> Answer: No answer needed
 
+## Task 8: Conclusions & Summaries
+**I'll have a play around!**
 
+> Answer: No answer needed
 
+## Task 9: Linux Fundamentals Part 2
+**Terminate the machine deployed in this room from task 3.**
 
+> Answer: No answer needed
 
+**Join [Linux Fundamentals Part 2!](https://tryhackme.com/room/linuxfundamentalspart2)**
 
+> Answer: No answer needed
 
-
-
-
-
-
+<div style="text-align: right">Written by: Shariat Ullah Pathan</div>
