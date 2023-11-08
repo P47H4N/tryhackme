@@ -102,4 +102,4 @@ The *>>* operator is used to add contents of a file.
 
 > Answer: No answer needed
 
-<div style="text-align: right">Written by: Shariat Ullah Pathan</div>
+***Written by: Shariat Ullah Pathan***
