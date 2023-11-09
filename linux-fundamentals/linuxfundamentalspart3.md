@@ -11,7 +11,7 @@ Power-up your Linux skills and get hands-on with some common utilities that you 
 
 > No answer needed
 
-## Terminal Text Editors
+## Task 3: Terminal Text Editors
 **Create a file using Nano**
 
 > No answer needed
