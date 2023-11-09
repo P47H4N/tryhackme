@@ -34,7 +34,7 @@ Using *nano task3* command, we can edit the file.
 **Download the file http://MACHINE_IP:8000/.flag.txt onto the TryHackMe AttackBox
 What are the contents?**
 
-Since at the beginning of the file . , so the file will be in hidden form. To view the file, issue *ls -a* command. To read the contents of this file use *cat .flag.txt* command.
+Using *wget http://MACHINE_IP:8000/.flag.txt* command, we can download the file. Since at the beginning of the file . , so the file will be in hidden form. To view the file, issue *ls -a* command. To read the contents of this file use *cat .flag.txt* command.
 
 > THM{WGET_WEBSERVER}
 
