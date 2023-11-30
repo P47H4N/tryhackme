@@ -141,7 +141,7 @@ We got the answer.
 
 **You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?**
 
-Download the file attached to the room. Unzip the compress file ussing ```unzip gpg.zip``` command.
+Download the file attached to the room. Unzip the compress file by using ```unzip gpg.zip``` command.
 
 Now import the key by using following command:
 
